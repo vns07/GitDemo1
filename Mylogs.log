@@ -26,3 +26,85 @@
 1    [main] WARN  gitdemo.demo  -  13
 1    [main] WARN  gitdemo.demo  -  21
 1    [main] WARN  gitdemo.demo  -  34
+0    [main] WARN  gitdemo.demo  - printing  output is 0 1
+1    [main] WARN  gitdemo.demo  - Febonacci series is 
+1    [main] INFO  gitdemo.demo  - Febonacci series is 
+1    [main] FATAL gitdemo.demo  - Febonacci series is 
+1    [main] ERROR gitdemo.demo  - Febonacci series is 
+2    [main] WARN  gitdemo.demo  -  1
+2    [main] WARN  gitdemo.demo  - Febonacci series is 
+2    [main] INFO  gitdemo.demo  - Febonacci series is 
+2    [main] FATAL gitdemo.demo  - Febonacci series is 
+2    [main] ERROR gitdemo.demo  - Febonacci series is 
+2    [main] WARN  gitdemo.demo  -  2
+2    [main] WARN  gitdemo.demo  - Febonacci series is 
+2    [main] INFO  gitdemo.demo  - Febonacci series is 
+2    [main] FATAL gitdemo.demo  - Febonacci series is 
+2    [main] ERROR gitdemo.demo  - Febonacci series is 
+2    [main] WARN  gitdemo.demo  -  3
+2    [main] WARN  gitdemo.demo  - Febonacci series is 
+2    [main] INFO  gitdemo.demo  - Febonacci series is 
+2    [main] FATAL gitdemo.demo  - Febonacci series is 
+2    [main] ERROR gitdemo.demo  - Febonacci series is 
+2    [main] WARN  gitdemo.demo  -  5
+2    [main] WARN  gitdemo.demo  - Febonacci series is 
+2    [main] INFO  gitdemo.demo  - Febonacci series is 
+2    [main] FATAL gitdemo.demo  - Febonacci series is 
+2    [main] ERROR gitdemo.demo  - Febonacci series is 
+3    [main] WARN  gitdemo.demo  -  8
+3    [main] WARN  gitdemo.demo  - Febonacci series is 
+3    [main] INFO  gitdemo.demo  - Febonacci series is 
+3    [main] FATAL gitdemo.demo  - Febonacci series is 
+3    [main] ERROR gitdemo.demo  - Febonacci series is 
+3    [main] WARN  gitdemo.demo  -  13
+3    [main] WARN  gitdemo.demo  - Febonacci series is 
+3    [main] INFO  gitdemo.demo  - Febonacci series is 
+3    [main] FATAL gitdemo.demo  - Febonacci series is 
+3    [main] ERROR gitdemo.demo  - Febonacci series is 
+3    [main] WARN  gitdemo.demo  -  21
+3    [main] WARN  gitdemo.demo  - Febonacci series is 
+3    [main] INFO  gitdemo.demo  - Febonacci series is 
+3    [main] FATAL gitdemo.demo  - Febonacci series is 
+3    [main] ERROR gitdemo.demo  - Febonacci series is 
+3    [main] WARN  gitdemo.demo  -  34
+0    [main] WARN  gitdemo.demo  - printing  output is 0 1
+2    [main] WARN  gitdemo.demo  - Febonacci series is 
+2    [main] INFO  gitdemo.demo  - Febonacci series is 
+2    [main] FATAL gitdemo.demo  - Febonacci series is 
+2    [main] ERROR gitdemo.demo  - Febonacci series is 
+2    [main] WARN  gitdemo.demo  -  1
+2    [main] WARN  gitdemo.demo  - Febonacci series is 
+2    [main] INFO  gitdemo.demo  - Febonacci series is 
+2    [main] FATAL gitdemo.demo  - Febonacci series is 
+2    [main] ERROR gitdemo.demo  - Febonacci series is 
+2    [main] WARN  gitdemo.demo  -  2
+2    [main] WARN  gitdemo.demo  - Febonacci series is 
+2    [main] INFO  gitdemo.demo  - Febonacci series is 
+2    [main] FATAL gitdemo.demo  - Febonacci series is 
+2    [main] ERROR gitdemo.demo  - Febonacci series is 
+3    [main] WARN  gitdemo.demo  -  3
+3    [main] WARN  gitdemo.demo  - Febonacci series is 
+3    [main] INFO  gitdemo.demo  - Febonacci series is 
+3    [main] FATAL gitdemo.demo  - Febonacci series is 
+3    [main] ERROR gitdemo.demo  - Febonacci series is 
+3    [main] WARN  gitdemo.demo  -  5
+3    [main] WARN  gitdemo.demo  - Febonacci series is 
+3    [main] INFO  gitdemo.demo  - Febonacci series is 
+3    [main] FATAL gitdemo.demo  - Febonacci series is 
+3    [main] ERROR gitdemo.demo  - Febonacci series is 
+3    [main] WARN  gitdemo.demo  -  8
+3    [main] WARN  gitdemo.demo  - Febonacci series is 
+3    [main] INFO  gitdemo.demo  - Febonacci series is 
+3    [main] FATAL gitdemo.demo  - Febonacci series is 
+3    [main] ERROR gitdemo.demo  - Febonacci series is 
+3    [main] WARN  gitdemo.demo  -  13
+3    [main] WARN  gitdemo.demo  - Febonacci series is 
+4    [main] INFO  gitdemo.demo  - Febonacci series is 
+4    [main] FATAL gitdemo.demo  - Febonacci series is 
+4    [main] ERROR gitdemo.demo  - Febonacci series is 
+4    [main] WARN  gitdemo.demo  -  21
+4    [main] WARN  gitdemo.demo  - Febonacci series is 
+4    [main] INFO  gitdemo.demo  - Febonacci series is 
+4    [main] FATAL gitdemo.demo  - Febonacci series is 
+4    [main] ERROR gitdemo.demo  - Febonacci series is 
+4    [main] WARN  gitdemo.demo  -  34
