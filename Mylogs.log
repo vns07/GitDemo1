@@ -1,0 +1,28 @@
+0    [main] INFO  gitdemo.demo  - printing  output is 0 1
+2    [main] INFO  gitdemo.demo  -  1
+2    [main] INFO  gitdemo.demo  -  2
+2    [main] INFO  gitdemo.demo  -  3
+2    [main] INFO  gitdemo.demo  -  5
+2    [main] INFO  gitdemo.demo  -  8
+2    [main] INFO  gitdemo.demo  -  13
+2    [main] INFO  gitdemo.demo  -  21
+2    [main] INFO  gitdemo.demo  -  34
+0    [main] INFO  gitdemo.demo  - printing  output is 0 1
+0    [main] INFO  gitdemo.demo  - printing  output is 0 1
+1    [main] INFO  gitdemo.demo  -  1
+1    [main] INFO  gitdemo.demo  -  2
+1    [main] INFO  gitdemo.demo  -  3
+1    [main] INFO  gitdemo.demo  -  5
+2    [main] INFO  gitdemo.demo  -  8
+2    [main] INFO  gitdemo.demo  -  13
+2    [main] INFO  gitdemo.demo  -  21
+2    [main] INFO  gitdemo.demo  -  34
+0    [main] WARN  gitdemo.demo  - printing  output is 0 1
+1    [main] WARN  gitdemo.demo  -  1
+1    [main] WARN  gitdemo.demo  -  2
+1    [main] WARN  gitdemo.demo  -  3
+1    [main] WARN  gitdemo.demo  -  5
+1    [main] WARN  gitdemo.demo  -  8
+1    [main] WARN  gitdemo.demo  -  13
+1    [main] WARN  gitdemo.demo  -  21
+1    [main] WARN  gitdemo.demo  -  34
